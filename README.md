@@ -1,2 +1,1 @@
-This is the basic programmer every Programmer starts with.
-Printing a statement.
+Java Series from basic to advanced java problem questions
